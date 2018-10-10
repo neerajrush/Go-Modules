@@ -1,5 +1,5 @@
 # Go-Modules
-** Testing Go Modules introduced in GO 1.11 (Having Module at top of tree as repository)
+## Testing Go Modules introduced in GO 1.11 (Having Module at top of tree as repository)
 ```
 github.com/neerajrush/Go-Module:
                         go.mod
